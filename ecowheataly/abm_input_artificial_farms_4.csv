@@ -1,0 +1,69 @@
+province,altimetry,n_farms
+Pesaro e Urbino,Collina,1180
+Pesaro e Urbino,Montagna,159
+Pescara,Collina,1030
+Pescara,Montagna,129
+Piacenza,Collina,162
+Piacenza,Montagna,17
+Piacenza,Pianura,146
+Pisa,Collina,509
+Pisa,Pianura,139
+Pistoia,Montagna,10
+Pistoia,Collina,14
+Potenza,Collina,4376
+Potenza,Montagna,2706
+Ragusa,Collina,1419
+Ragusa,Pianura,279
+Ravenna,Collina,26
+Ravenna,Pianura,898
+Reggio Calabria,Collina,278
+Reggio Calabria,Montagna,142
+Reggio Calabria,Pianura,38
+Reggio nell'Emilia,Pianura,106
+Reggio nell'Emilia,Montagna,11
+Reggio nell'Emilia,Collina,28
+Rieti,Collina,69
+Rieti,Montagna,90
+Rimini,Collina,150
+Rimini,Pianura,82
+Roma,Collina,430
+Roma,Montagna,19
+Roma,Pianura,620
+Rovigo,Pianura,666
+Salerno,Montagna,212
+Salerno,Pianura,197
+Salerno,Collina,1050
+Sassari,Collina,184
+Sassari,Montagna,15
+Sassari,Pianura,170
+Siena,Collina,718
+Siena,Montagna,51
+Siracusa,Collina,831
+Siracusa,Pianura,353
+Sondrio,Montagna,13
+Sud Sardegna,Pianura,1600
+Sud Sardegna,Collina,1282
+Taranto,Pianura,1141
+Taranto,Collina,1501
+Teramo,Collina,907
+Teramo,Montagna,47
+Terni,Collina,281
+Torino,Collina,70
+Torino,Montagna,16
+Torino,Pianura,196
+Trapani,Collina,2462
+Trapani,Pianura,1302
+Trento,Montagna,56
+Treviso,Pianura,209
+Treviso,Collina,46
+Udine,Collina,16
+Udine,Pianura,80
+Venezia,Pianura,229
+Verona,Collina,14
+Verona,Pianura,308
+Vibo Valentia,Collina,345
+Vibo Valentia,Montagna,21
+Vicenza,Collina,100
+Vicenza,Pianura,172
+Viterbo,Collina,993
+Viterbo,Pianura,755

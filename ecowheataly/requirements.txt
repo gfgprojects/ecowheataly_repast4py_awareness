@@ -1,0 +1,7 @@
+bw2calc==1.8.2
+bw2data==3.6.6
+mpi4py==4.0.3
+numpy==2.4.3
+pandas==3.0.1
+repast4py==1.1.6
+scipy==1.17.1
